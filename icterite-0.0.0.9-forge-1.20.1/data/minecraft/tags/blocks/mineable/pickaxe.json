@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "icterite:icterine_block",
+    "icterite:raw_icterine_block",
+    "icterite:icterine_ore"
+  ]
+}

@@ -1,0 +1,28 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT License"
+
+[[mods]]
+modId="icterite"
+version="0.0.0.9"
+displayName="Icterite"
+displayURL="https://mcreator.net"
+credits="Created using mod maker MCreator - https://mcreator.net/about"
+authors="LlamaLord, MCreator"
+description="Wery early pre-alpha version, successor of the previous version, with improvements for the base material"
+
+# Start of user code block mod configuration
+# End of user code block mod configuration
+
+[[dependencies.icterite]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1]"
+    ordering="AFTER"
+    side="BOTH"
+
+
+
+
+# Start of user code block dependencies configuration
+# End of user code block dependencies configuration

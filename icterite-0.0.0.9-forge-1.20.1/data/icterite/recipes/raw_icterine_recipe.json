@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "icterite:raw_icterine_block"
+    }
+  ],
+  "result": {
+    "item": "icterite:raw_icterine",
+    "count": 9
+  }
+}

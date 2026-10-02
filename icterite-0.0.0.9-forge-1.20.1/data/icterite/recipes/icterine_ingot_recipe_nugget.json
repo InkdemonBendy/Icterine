@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "icterite:icterine_nugget"
+    }
+  },
+  "result": {
+    "item": "icterite:icterine_ingot",
+    "count": 1
+  }
+}

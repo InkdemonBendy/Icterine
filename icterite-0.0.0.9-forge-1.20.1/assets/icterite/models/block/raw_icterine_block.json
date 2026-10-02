@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "icterite:block/raw_icterine_block",
+    "up": "icterite:block/raw_icterine_block",
+    "north": "icterite:block/raw_icterine_block",
+    "east": "icterite:block/raw_icterine_block",
+    "south": "icterite:block/raw_icterine_block",
+    "west": "icterite:block/raw_icterine_block",
+    "particle": "icterite:block/raw_icterine_block"
+  },
+  "render_type": "solid"
+}
